@@ -123,6 +123,8 @@ exit();
         <option>kagarama</option>
         <option>Gatenga</option>
         <option>Niboye</option>
+        <option>Gahanga</option>
+        <option>Masaka</option>
       </select>
 <input type="submit" name="sub" value="Register">
 
@@ -138,10 +140,10 @@ exit();
   <!-- Modal content -->
   <div class="modal-content">
     <span class="close" id="close2">&times;</span>
-    <p>Login here</p>
+    <p>Login here to continue</p>
     <form action="index.php" method="POST">
       <input type="text" name="tel" placeholder="Tel">
-      <input type="password" name="pwd" placeholder="************** ">
+      <input type="password" name="pwd" placeholder="*****">
       
      
 <input type="submit" name="login" value="Log in">
