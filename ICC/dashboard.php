@@ -107,17 +107,16 @@ else
 <footer><center><br>
   
   <ul >
-    <li>Our Social Media</li>
+    <li>Our Social Media , Fell free to share this to everyOne</li>
     <li class="fa fa-facebook"></li>
     <li class="fa fa-instagram"></li>
     <li class="fa fa-whatsapp"></li>
     <li class="fa fa-youtube"></li>
-    <li class="fa fa-twitter"></li>
-    <li class="fa fa-linkedin"></li>
+    
 
   </ul>
-  <p> &copy; Electonic Citizen COntribution System 2020</p></center>
-  <br>
+  <p> &copy; Electonic Citizen Contribution System 2020</p></center>
+  <br/>
 </footer>
 <script type="text/javascript" src="main.js"></script>
 </body>
